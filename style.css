@@ -1,0 +1,15 @@
+html {
+    text-align: center;
+    background-color: black;
+}
+
+img {
+    height: 75%;
+    margin-top: 2%;
+    border: 5px solid lightblue;
+}
+
+
+h1, h2 {
+    color: orange;
+}
